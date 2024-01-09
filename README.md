@@ -1,1 +1,1 @@
-# ICITEE-2023
+# Sign Language LSTM
